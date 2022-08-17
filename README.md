@@ -1,10 +1,10 @@
-# Prediction and analyse of the Pacific juvenile loggerhead sea turtle's migrations
+# Prediction and Analysis of the Pacific Juvenile Loggerhead Sea Turtle's Migrations
 Author: Elisabeth Kneip\
 Supervisors: Philippe Gaspar, Emmanuel Hanert and Sébastien Jodogne
 
-Python code implemented in the writing of a master thesis in order to obtain the diploma of Computer Science and Engineering at UCLouvain. This work is based on a dataset processed by [Mercator Océan](https://www.mercator-ocean.eu/) and thus, not published in this repository.
+Python code implemented in a master thesis in order to obtain the diploma of Computer Science and Engineering at UCLouvain. This work is based on a dataset processed by [Mercator Océan](https://www.mercator-ocean.eu/) and originating [NOAA PIFSC](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center). It is therefore not published in this repository.
 
-### Replication of the results presented in the writings
+### Replication of the Results Presented in the Writings
 <sup> Tracks need to be added to the folder.</sup>\
 The file [*settings*](settings.py) allows to choose a model to train as well as a target value. Then, [*main*](main.py) offers the different experiments presented in the master thesis. 
 
