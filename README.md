@@ -5,6 +5,7 @@ Supervisors: Philippe Gaspar, Emmanuel Hanert and Sébastien Jodogne
 Python code implemented in the writing of a master thesis in order to obtain the diploma of Computer Science and Engineering at UCLouvain. This work is based on a dataset processed by [Mercator Océan](https://www.mercator-ocean.eu/) and thus, not published in this repository.
 
 ### Replication of the results presented in the writings
+<sup> Tracks need to be added to the folder.</sup>\
 The file [*settings*](settings.py) allows to choose a model to train as well as a target value. Then, [*main*](main.py) offers the different experiments presented in the master thesis. 
 
 Chapter 5 used the *all_var* function with target value `vs` and model `dnn`, `lstm` or `condRNN`. 
