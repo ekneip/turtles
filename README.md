@@ -1,6 +1,6 @@
 # Prediction and analyse of the Pacific juvenile loggerhead sea turtle's migrations
 
-Python code used in the writing of a master thesis in order to obtain the diploma of Computer Science and Engineering at UCLouvain. This work is based on a dataset processed by [Mercator Océan](https://www.mercator-ocean.eu/) and thus, not published in this repository.
+Python code implemented in the writing of a master thesis in order to obtain the diploma of Computer Science and Engineering at UCLouvain. This work is based on a dataset processed by [Mercator Océan](https://www.mercator-ocean.eu/) and thus, not published in this repository.
 
 The file [settings.py](settings.py) allows to choose a model to train as well as a target value. Then, [main.py](main.py) offers the different experiments presented in the master thesis. 
 
@@ -14,4 +14,6 @@ Sections 6.1.3 and 6.3.1 used the functions *exp_1()* and *exp_2()* with respect
 
 Sections 6.2 and 6.4 used the the functions *plot_scores_delta()* and *plot_var_delta()* with model `svm` and respectively target value `delta_lat` or `delta_lon`. 
 
-Supervisors : Philippe Gaspar, Emmanuel Hanert and Sébastien Jodogne
+Author: Elisabeth Kneip
+
+Supervisors: Philippe Gaspar, Emmanuel Hanert and Sébastien Jodogne
